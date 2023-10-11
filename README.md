@@ -20,7 +20,9 @@ https://www.mu.my/en/documentation/plugins/moodle-other-course-completion-restri
 
 # Author
 Sam Suresh
+
 MODERNLMS
+
 www.modernlms.com
 help@modernlms.com
 
